@@ -1,3 +1,5 @@
+//Write a method that takes in
+// an array of Strings and returns an array containing the lengths of each string in the input array.
 package ArrayProgram;
 
 import java.util.Arrays;

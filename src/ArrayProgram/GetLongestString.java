@@ -6,7 +6,7 @@ package ArrayProgram;
 
 public class GetLongestString {
     public static void main(String[] args) {
-        String[] sc = {"how are you", "Hello", "oh my god", "I am very good", "We blessed"};
+        String[] sc = {"how are you", "Hello", "oh my god", "You are very good", "We blessed"};
         String result = getLongestString(sc);
         System.out.println("the longest String is: " + result);
 

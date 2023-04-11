@@ -5,13 +5,14 @@
 //public int[] getEvenNumbers( int[] nums){}
 package ArrayProgram;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class GetEvenNumber {
     public static void main(String[] args) {
         GetEvenNumber object  = new GetEvenNumber();
         int[] input = {1, 5, 6, 7, 3, 8};
-        int[] result = object.getEvenNumbers(input);
+        int[] result =  object.getEvenNumbers(input);
         System.out.println("The even number array is : " + Arrays.toString(result));
 
     }

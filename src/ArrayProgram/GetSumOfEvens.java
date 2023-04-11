@@ -1,3 +1,5 @@
+//Write a Java method called getSumOfEvens that
+// takes an integer array as input and returns the sum of all even integers in the array.
 package ArrayProgram;
 
 public class GetSumOfEvens {
